@@ -4,6 +4,7 @@ Mitsubishi Electric AC remote control for Flipper Zero.
 This fork is implementing IR protocol that is being used in newer Mitsubishi AC models.
 
 Protocol description and competiable ACs will be added soon.
+
 ![Screenshot](img/screenshot.png)
 
 ## Building
