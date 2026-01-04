@@ -4,9 +4,7 @@
 /* 
 
 TODO:
- * Add flow mode
- * Add documentation to IR signals
-
+ * Add fan mode
 */ 
 
 static uint8_t HVAC_MITSUBISHI_DATA[11] = {
