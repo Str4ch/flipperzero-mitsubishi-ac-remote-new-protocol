@@ -11,6 +11,10 @@ This fork is implementing IR protocol that is being used in newer Mitsubishi AC 
 
 ![Screenshot](img/screenshot.png)
 
+Based on [Mitsubishi AC Remote](https://github.com/achistyakov/flipperzero-mitsubishi-ac-remote).
+
+[Protocol Description](https://github.com/Str4ch/flipperzero-mitsubishi-ac-remote-new-protocol/blob/master/PROTOCOL.md)
+
 ## Building
 ```shell
 # Clone repository

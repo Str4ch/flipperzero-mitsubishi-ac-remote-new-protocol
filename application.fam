@@ -1,6 +1,6 @@
 App(
-    appid="mitsubishi_ac_remote",
-    name="Mitsubishi AC Remote",
+    appid="mitsubishi_ac_remote_new_protocol",
+    name="Mitsubishi AC Remote(New)",
     apptype=FlipperAppType.EXTERNAL,
     targets=["f7"],
     entry_point="ac_remote_app",
@@ -12,7 +12,7 @@ App(
     ],
     stack_size=1 * 2048,
     order=90,
-    fap_description="Mitsubishi Electric Air Conditioner remote control",
+    fap_description="Mitsubishi Air Conditioner remote control(New)",
     fap_version="1.0",
     fap_icon="ac_remote.png",
     fap_category="Infrared",
