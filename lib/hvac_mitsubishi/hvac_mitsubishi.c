@@ -169,7 +169,7 @@ void hvac_mitsubishi_send(uint8_t* data) {
     }
 
     
-    timings[timings_size] = HVAC_MITSUBISHI_RPT_MARK;
+    timings[timings_size] = HVAC_MITSUBISHI_BIT_MARK;
     timings_size++;
 
     infrared_send_raw_ext(timings, timings_size, true, frequency, duty_cycle);
